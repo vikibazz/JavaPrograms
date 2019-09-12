@@ -33,6 +33,7 @@ public class ThreeSum
 
         for(int i = 0 ; i < num.length - 2;i++)
         {
+            //checking whether the previous element in array is same as the present element
             if(i == 0 || num[i] != num[i - 1])
             {
                 int lo = i + 1;
@@ -41,6 +42,8 @@ public class ThreeSum
 
                 while(lo < hi)
                 {
+                    //checking whether the elements in the indexes lo and hi are equal to 'i'
+                    //by two pointer method
                     if(num[lo] + num[hi] == sum)
                     {
                         res.add(Arrays.asList(num[i],num[lo],num[hi]));
