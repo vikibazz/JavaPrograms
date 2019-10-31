@@ -149,9 +149,7 @@ public class SinglyLinkedListUsingStaticClass
         DeleteByKey(lists,9);
 
         DeleteByPos(lists,2);
-
         DeleteByPos(lists,0);
-
         DeleteByPos(lists,8);
 
         PrintList(lists);
