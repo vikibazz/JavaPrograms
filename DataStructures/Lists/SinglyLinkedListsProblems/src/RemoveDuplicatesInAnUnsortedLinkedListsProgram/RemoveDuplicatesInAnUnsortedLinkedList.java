@@ -1,3 +1,13 @@
+/*
+Remove duplicates in an unsorted linked list 
+
+Input:
+1 2 3 1 1 4 5 4 6 6
+
+Output:
+1 2 3 4 5 6
+
+*/
 public class RemoveDuplicatesInAnUnsortedLinkedList
 {
     Node head;
