@@ -1,3 +1,6 @@
+/*
+Inserting data,Deleting data(Delete by key,Delete by position) in a Singly linked list)
+*/
 public class SinglyLinkedListUsingStaticClass
 {
     Node head;
