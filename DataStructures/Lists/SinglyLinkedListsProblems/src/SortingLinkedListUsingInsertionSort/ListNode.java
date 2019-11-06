@@ -1,3 +1,13 @@
+/*
+Sort the Linked List using Insertion Sort
+
+Input:
+5 1 3 7 2 4 6
+
+Output:
+1 2 3 4 5 6 7
+*/
+
 public class ListNode
 {
     Node head;
