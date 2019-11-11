@@ -1,4 +1,13 @@
+/*Input:
 
+----Unsorted Linked List----
+8 1 5 2 10 3 4 6 7 9
+
+Output:
+
+----Sorted Linked List----
+1 2 3 4 5 6 7 8 9 10 
+*/
 public class SortListUsingMerge
 {
     ListNode head;
