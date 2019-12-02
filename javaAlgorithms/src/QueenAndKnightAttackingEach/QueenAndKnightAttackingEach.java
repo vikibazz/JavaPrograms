@@ -5,8 +5,8 @@ Input:
 // here  the matrix represents 8x8 chess board
 // '2' represents Queen pos
 // '1' represents Knight pos
-// Queen is a pos (2,4)
-// Knight is a pos (3,6)
+// Queen is in a pos (2,4)
+// Knight is in a pos (3,6)
 
 Input :
            Board [][] =  {{0,0,0,0,0,0,0,0},
