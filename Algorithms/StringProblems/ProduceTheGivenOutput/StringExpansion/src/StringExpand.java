@@ -1,3 +1,22 @@
+/*
+
+Example 1:
+
+Input: 
+a1b10
+       
+Output: 
+abbbbbbbbbb
+
+Example 2: 
+
+Input: 
+b3c6d15
+       
+Output: 
+bbbccccccddddddddddddddd
+
+*/
 public class StringExpand
 {
     public static void main(String[] args) 
