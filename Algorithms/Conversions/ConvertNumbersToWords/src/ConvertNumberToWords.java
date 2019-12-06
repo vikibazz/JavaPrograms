@@ -2,6 +2,18 @@
 
 /**
  * ConvertNumberToWords
+ * 
+ * Input :
+ * 
+ * 40
+ * 5465
+ * 
+ * Output :
+ * 
+ * forty
+ * five thousand four hundred sixty five
+ * 
+ * 
  */
 public class ConvertNumberToWords 
 {
