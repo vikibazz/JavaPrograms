@@ -19,6 +19,7 @@ Not an anagram
 
 */
 
+//single array method
 
 import java.util.Arrays;
 
