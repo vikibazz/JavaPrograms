@@ -19,6 +19,8 @@ Not an anagram
 
 */
 
+// Two array method
+
 import java.util.Arrays;
 
 public class AnagramOrNot
