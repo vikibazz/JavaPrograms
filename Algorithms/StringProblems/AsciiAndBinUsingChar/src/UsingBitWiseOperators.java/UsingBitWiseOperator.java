@@ -1,3 +1,15 @@
+/*
+Input :
+
+A
+
+Output :
+
+Ascii : 065
+Binary : 01000001
+
+*/
+
 public class UsingBitWiseOperator
 {
     public static void binaryValueIs(char c,int Ascii) 
